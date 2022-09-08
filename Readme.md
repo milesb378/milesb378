@@ -1,5 +1,4 @@
 # Hello
-![title](location of pic)
 My name is a highly classified document. Coincidentally, all Americans use my name, while non-Americans laugh at the stupiditiy of it. I am American, in ninth grade and some of my favorite things are:
 + Reading
 + Sleeping
